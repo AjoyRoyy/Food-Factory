@@ -77,6 +77,7 @@ h3{
     color:white;
     background-image:linear-gradient(orange,tomato);
     margin-bottom: 8px;
+    text-align: center;
   }
 .backend-img{
     background:url(images/red.png);
